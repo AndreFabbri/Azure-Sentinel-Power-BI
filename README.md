@@ -3,13 +3,13 @@ Depois de sua Kudo query pronta, clique em **Export** e faça o download da **M 
 
 ![](https://raw.githubusercontent.com/JoaoLucindo/Azure-Sentinel-Power-BI/master/GIF1.gif)
 
-Com o Power BI aberto, clique em **Obter dados**, seleciona **Consulta em branco**. No Ribbon superior clique em **Editor Avançado** e cole o conteúdo do arquivo texto que acabamos de baixar. Clique em **concluído**. Se for requisitado, entre com as credenciais do tipo organizacional para um usuário que tenha acesso ao Azure Sentinel.
+Com o Power BI aberto, clique em **Obter dados**, selecione **Consulta em branco**. No Ribbon superior clique em **Editor Avançado** e cole o conteúdo do arquivo texto que acabamos de baixar. Clique em **Concluído**. Se for requisitado, entre com as credenciais do tipo organizacional para um usuário que tenha acesso ao Azure Sentinel.
 
 ![](https://raw.githubusercontent.com/JoaoLucindo/Azure-Sentinel-Power-BI/master/GIF2.gif)
 
-Faça as modificações necessárias e clique em **Fechar e aplicar**.
+Faça as modificações necessárias e clique em **Fechar e Aplicar**.
 
-Para mais detalhes de como transformar o seu dado, [veja esse material de referencia](http://https://docs.microsoft.com/en-us/power-bi/desktop-query-overview "veja esse material de referencia")
+Para mais detalhes de como transformar o seu dado, [veja esse material de referencia](http://https://docs.microsoft.com/en-us/power-bi/desktop-query-overview "veja esse material de referência")
 
 ![](https://raw.githubusercontent.com/JoaoLucindo/Azure-Sentinel-Power-BI/master/GIF3.gif)
 
